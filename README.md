@@ -20,5 +20,6 @@
 
 
 5.ТС-005
-Equivalent Partition Project 
-Проверка валидации поля:"Возраст"
+[Equivalent Partition Project 
+Проверка валидации поля:"Возраст"]
+(https://github.com/yuliachain-jpg/TEST--Cases/issues/5)
