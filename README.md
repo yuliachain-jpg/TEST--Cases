@@ -11,7 +11,7 @@
 
 3.ТС-003
 [BVA Project:Проверка поля"Количество товара"]
-(. )
+(https://github.com/yuliachain-jpg/TEST--Cases/issues/3)
 
 
 4.ТС-004
