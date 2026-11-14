@@ -16,7 +16,7 @@
 
 4.ТС-004
 [Авторизация пользователя с валидными данными]
-(.  ) 
+(https://github.com/yuliachain-jpg/TEST--Cases/issues/4) 
 
 
 5.ТС-005
